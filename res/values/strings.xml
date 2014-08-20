@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Gidi</string>
+
+    <string name="save">Save</string>
+
+    <string name="name">Name</string>
+
+    <string name="address">Address</string>
+
+    <string name="date">Date</string>
+
+    <string name="time">Time</string>
+    
+    <string name="alarm">Alarm</string>
+
+    <string name="gps">GPS Coordinate</string>
+    
+    <string name="dismiss">Dismiss</string>
+    
+    <string name="snooze">Snooze</string>
+    
+    <string name="notification">Ping Notification</string>
+    <string name="ping">Ping</string>
+    
+    <string-array name="type">
+        <item>Meeting</item>
+        <item>Birthday</item>
+        <item>Hackathon</item>
+    </string-array>
+        <string name="get_direction">Get Direction</string>
+        <string name="_">+</string>
+        <string name="pick">Pick</string>
+        <string name="_t">\@</string>
+        <string name="share">Share</string>
+
+</resources>
